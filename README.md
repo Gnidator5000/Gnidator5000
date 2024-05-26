@@ -14,10 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@felekxd33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@felekxd33" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/braian kropidłowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="braian kropidłowski" height="30" width="40" /></a>
-<a href="https://fb.com/braian kropidłowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="braian kropidłowski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://pl.linkedin.com/in/braian-kropid%c5%82owski-6089a3303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pl.linkedin.com/in/braian-kropid%c5%82owski-6089a3303" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100023838624102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100023838624102" height="30" width="40" /></a>
 <a href="https://instagram.com/felczasty_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felczasty_" height="30" width="40" /></a>
-<a href="https://discord.gg/felczasty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="felczasty" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/Xz4J7FpU25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Xz4J7FpU25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
